@@ -1,6 +1,6 @@
 {
   "name": "jsongrep",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Mining values in structural JSON, like grep using JSONPath",
   "bin": {
     "jsongrep": "./cli.js"
